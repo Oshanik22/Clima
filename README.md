@@ -1,7 +1,7 @@
 
 # Clima ☁
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+A Weather App , works on both Android and iOS, built using Flutter
 
 ## Features
 
